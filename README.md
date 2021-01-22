@@ -14,4 +14,7 @@ are very welcome! If you have any design guidelines to structure de project and,
 more importantly, commands you want to include on this list, feel free to
 make a Pull Request.
 
+TODO:
+* Polish existent md files
+* Publish it to guthub pages
 
